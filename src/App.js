@@ -1,7 +1,7 @@
 import React from 'react';
 import { TodoProvider } from './TodoContext';
 import TodoList from './TodoList';
-import './App.css'; // Import the CSS file
+import './App.css';
 
 function App() {
   return (
